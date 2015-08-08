@@ -1,7 +1,6 @@
 ---
 title:Implementation Notes - Version 1.0
 ---
-<!DOCTYPE html> 
 <html lang="en-gb"> 
 	<head>
 <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen"> 
@@ -11,7 +10,6 @@ title:Implementation Notes - Version 1.0
 	
 <head>
 <body>
-<h1>Implementation Notes - Version 1.0</h1>
 <b>Christopher Hill - 08/2015</b>
 <p>
 <b>Implementation Rationale</b> – The way I have chosen to approach the creation of this CSL Layout is from a philosophy of extensibility: Rather than have a format rule for every type of source, a generic layout has been defined based on the quantified, modal-average way in which the University of Worcester defines its layouts. Simply speaking, it caters to the lowest common denominator by displaying every attribute with a value provided, implementing rules on top of this for ‘special cases’. 
